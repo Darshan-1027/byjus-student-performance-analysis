@@ -68,7 +68,5 @@ The dataset contains 100 students with the following columns:
 
 ---
 
-## 📈 Resume Bullet Example
 
-> 🧾 **Byju’s Student Analysis** – Used Pandas and visualization tools to analyze student behavior and learning patterns across subjects and cities. Delivered insights on engagement, premium user performance, and monthly trends.
 
